@@ -9,7 +9,7 @@
 
 **답 : (4)**
 
-**Question 1:** 윗글에서 humanistic AI 및 super human performance 로 언급되지 않은 것은?
+**Question 1-2:** 윗글에서 humanistic AI 및 super human performance 로 언급되지 않은 것은?
 
 ```
 
@@ -28,7 +28,7 @@
 
 **답 : (3)**
 
-**Question 2:** 영상에서 말하는 이는 Todai로봇에게 몇 가지 mathematical axioms를 가르쳤는가??
+**Question 2-2:** 영상에서 말하는 이는 Todai로봇에게 몇 가지 mathematical axioms를 가르쳤는가??
 
 ```
 
@@ -46,7 +46,7 @@
 
 **답 : (3)**
 
-**Question 3:** 말하는 이가 처음으로 사물감지 연구를 시작했을 때 이미지 하나를 처리하는 데 걸린 시간은?
+**Question 3-2:** 말하는 이가 처음으로 사물감지 연구를 시작했을 때 이미지 하나를 처리하는 데 걸린 시간은?
 
 ```
 
