@@ -1,0 +1,37 @@
+
+# AI Core Lecture list
+----------------------------------------------------------
+# AI Introduction and Future
+
+## 4. [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg)
+- Aperture
+- 20:21
+- Artificial Intelligence: Mankind's Last Invention - Technological Singularity Explained. As artificial intelligence becomes more and more advance how will it impact mankind’s future?  AI could be a great thing or a very bad thing.  It is interesting to hear what great minds have to say about artificial intelligence.
+
+------------------------
+# AI applications
+
+## 4.	[How ai is making it easier to diagnose disease](https://www.youtube.com/watch?v=mhEYvrFOP88)
+- Speaker: Pratik Shah · Medical technologist
+- 4 :59
+- 인공지능을 활용해서 질병을 발견하는 방법.
+- 요약 
+- 오늘날 컴퓨터 알고리즘의 기능은 정말 놀랍다. 인간의 지능과 비슷하지만 아주 엄청난 양을 정확하게 처리하며 이러것을 AI 또는 인공지능이라한다. 매년 수천명의 환자들이 간암과 구강암으로 생명을 잃는다. 기존의 인공지능을 활용한다면 만장의 값비싼 의료영상기술을 이용한 사진이 필요하다. 또한 영상분석 전문의가 필요하다. 이러한 문제는 기존의 인공지능으로는 어려움을 느낀다(방대한자료, 전문의, 특수의료영상 기술) 때문에 발표자는 더 확장성 높고 효울적인 인공지능을 만들었다. 그의 목표는 두가지 1. 인공지능의 알고리즘의 학습에 필요한 영상의 수를 줄이기 2. 값비싼 의료영상기술의 사용을 줄이기 이다. 이를 해결하기 위해 발표자는 의료영상기술로 찍힌 단 한장의 영상에서 수억개의 정보패킷을 추출해내었고 학습점으로 만들었다. 또한 의료영상기술의 사용을 줄이기 위해 일반적인 백색광 사진과 DSLR사진기나 휴대전화에서 가능하게 하였다. 그리고 이 영상위에 수 십억개의 정보패킷을 합성시켜 단 50장으로 알고리즘이 학습이 가능하게하였다. 기존의 인공지능은 자료는 방대하지만 활용도가 낮기에 , 소량의 자료만으로도 우리에게 당면한 중대한 과제들을 해결할 수 있는 대체 인공지능 구조를 계속 연구해야 한다. 
+
+--------------------------------
+# Machine Learning, Deep Learning
+
+## 4. [Building AI for Everyone 모두를 위한 인공지능](https://youtu.be/BKj3fnPSUIQ)
+- Speaker: Jeffrey Dean (Google AI Team)
+- 16:09
+- 내용: AI가 여러 분야에 어떻게 다양하게 사용되고 있는지 설명합니다. 우리 각자의 전공 영역이나 혹은 일상 생활에서 어떻게 적용할 수 있을지 생각하게 합니다. 창의적인 생각이 많이 일어나길 바랍니다.
+- 영문 + 한글 자막
+
+------------------------------------------------------------
+# Highly Technical Lectures
+
+## 1. YTD(Yet To be Determined)
+
+
+  ----------------------------
+  _One thing I know, I was blind but now I see. John 9:25_
