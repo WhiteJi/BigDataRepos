@@ -28,10 +28,73 @@
 - 영문 + 한글 자막
 
 ------------------------------------------------------------
-# Highly Technical Lectures
 
-## 1. YTD(Yet To be Determined)
+# AI Introduction and Future
+
+## 4. [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg)
+- Aperture
+
+**Question 1:** 인간에게 기계의 지능을 부여하는 것이 발표자가 생각하는 인공지능의 목표라고 합니다. 기계가 강해지면 인간도 강해진다를 뜻하며 인간과 기계의 협력과 강화를 통해 인간의 욕구를 충족시켜주는 인공지능을 무엇이라 할까요?
+
+```
+
+(1) 인지적 인공지능 (2)사회적 인공지능 (3)친화적 인공지능 (4)인간적 인공지능
+```
+
+**답 : (4)**
+
+**Question 1-2:** 윗글에서 humanistic AI 및 super human performance 로 언급되지 않은 것은?
+
+```
+
+(1) siri (2) cancer classifier (3)drone (4)3ds Max
+```
+
+**답 : (4)**
 
 
-  ----------------------------
-  _One thing I know, I was blind but now I see. John 9:25_
+# AI applications
+
+## 4.	[How ai is making it easier to diagnose disease](https://www.youtube.com/watch?v=mhEYvrFOP88)
+- Speaker: Pratik Shah · Medical technologist
+
+**Question 2-1:** 발표자가 말한 사례로 인공지능을 통한 질병의 조기 발견과 진단과정에서 기존의 인공지능이 겪는 어려움으로 말하지 않은것은?
+
+```
+
+(1) 방대한 자료 (2) 전문의 (3) 특수 의료영상기술 (4) 공학자
+```
+
+**답 : (4)**
+
+**Question 2-2:** 발표자가 개발한 구조의 인공지능은 몇 장의 영상으로 학습이 가능한가?
+
+```
+
+(1) 25 (2) 40 (3) 50(4) 120
+```
+
+**답 : (3)**
+
+# Machine Learning, Deep Learning
+
+## 4. [Building AI for Everyone 모두를 위한 인공지능](https://youtu.be/BKj3fnPSUIQ)
+- Speaker: Jeffrey Dean (Google AI Team)
+
+ **Question 3-1:** 다크넷은 오픈소스로 누구나 사용할 수 있습니다. 개발자가 말한 다크넷이 사용되고 있는 예시가 아닌 곳은?
+
+```
+
+(1) 암세포를 찾아낸다 (2) 보행자 자율주행 자동차 안의 자전거들을 찾아낸다 (3) 경주국립공원 개체수 감지시스템의 일부 (4) 정지표시판을 찾아낸다
+```
+
+**답 : (3)**
+
+**Question 3-2:** 말하는 이가 처음으로 사물감지 연구를 시작했을 때 이미지 하나를 처리하는 데 걸린 시간은?
+
+```
+
+(1) 2초 (2) 10초 (3) 20초 (4) 30초
+```
+
+**답 : (3)**
