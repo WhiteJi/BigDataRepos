@@ -34,23 +34,23 @@
 ## 4. [Artificial Intelligence: Mankind's Last Invention](https://www.youtube.com/watch?v=Pls_q2aQzHg)
 - Aperture
 
-**Question 1:** 인간에게 기계의 지능을 부여하는 것이 발표자가 생각하는 인공지능의 목표라고 합니다. 기계가 강해지면 인간도 강해진다를 뜻하며 인간과 기계의 협력과 강화를 통해 인간의 욕구를 충족시켜주는 인공지능을 무엇이라 할까요?
+**Question 1:** 발표자가 얘기한 "the science of trying to get computers to learn and think like we humans do"는 어떤 단어를 설명한 말일 까요?
 
 ```
 
-(1) 인지적 인공지능 (2)사회적 인공지능 (3)친화적 인공지능 (4)인간적 인공지능
-```
-
-**답 : (4)**
-
-**Question 1-2:** 윗글에서 humanistic AI 및 super human performance 로 언급되지 않은 것은?
-
-```
-
-(1) siri (2) cancer classifier (3)drone (4)3ds Max
+(1) Neural network (2) Machine learning (3)Brainstorming (4) Neuralink
 ```
 
 **답 : (4)**
+
+**Question 1-2:** 다음 중 	Super Intelligence AI에 대해 언급된 것으로 옳은 것은?
+
+```
+
+(1) Sole purpose of handling one task (2) IQ is about 500 and will be smarter (3)It cant teach itself (4) From HGI to SIA it takes only a year
+```
+
+**답 : (2)**
 
 
 # AI applications
