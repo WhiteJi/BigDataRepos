@@ -9,16 +9,12 @@
 - The actual path of a raindrop as it goes down the valley is unpredictable, but the general direction is inevitable," says digital visionary Kevin Kelly -- and technology is much the same, driven by patterns that are surprising but inevitable. Over the next 20 years, he says, our penchant for making things smarter and smarter will have a profound impact on nearly everything we do. Kelly explores three trends in AI we need to understand in order to embrace it and steer its development. "The most popular AI product 20 years from now that everyone uses has not been invented yet," Kelly says. "That means that you're not late.
 - 요약
 - 우리는 기술을 처음 접할 때 기술이 가져다 주는 것에 대해 놀라곤 한다. 그러나 기술의 대부분은 예측이 가능하며 모든 종류의 기술 시스템이 각각의 성향을 가지기 때문이다. 기술마다 일정한 경향성을 가지며 그런 경향들은 반복되는 패턴을 만들어내는데 그 패턴은 경향성과 성향을 만든다. 이는 중력과 비슷하다고 볼 수 있다.
-ex) 계곡에 떨어지는 빗방울 - 빗방울의 실제 경로 예측 불가하지만  대략적인 방향은 아래쪽
+ex) 계곡에 떨어지는 빗방울 - 빗방울의 실제 경로 예측 불가하지만  대략적인 방향은 아래쪽이다.
+기술의 경향성과 촉발성은 사건이 대략 어떻게 진행되는지 알려준다.
+전화기의 발명 – 필연적, 아이폰 – 필연적 xㅡ인터넷의 발명 – 필연적, 트위터 – 필연적 x
+현재 여러 흐름이 존재. 가장 중요한 것은 지능적으로 고도화되는 경향성(=cognification, 인공지능, AI)우리가 이미 가지고 있는 인공지능은 주로 보이지 않는 곳에서 일한다. 예로 X선, 법정 증거 검토, 비행기 조종, 넷플릭스나 아마존 - 추천, 알파고
+다른 예시 - 비디오 게임이 
 
-기술의 경향성과 촉발성은 사건이 대략 어떻게 진행되는지 알려줌.
-전화기의 발명 – 필연적, 아이폰 – 필연적 x
-인터넷의 발명 – 필연적, 트위터 – 필연적 x
-현재 여러 흐름이 존재. 가장 중요한 것은 지능적으로 고도화되는 경향성(=cognification, 인공지능, AI)
-우리가 이미 가지고 있는 인공지능은 주로 보이지 않는 곳에서 일함.
-ex) X선, 법정 증거 검토, 비행기 조종, 넷플릭스나 아마존 - 추천
-대표적인 예시 - 알파고
-다른 예시 - 비디오 게임
 ->예전에는 우리가 인공지능을 상대로 게임을 함
    그러나 구글에서 인공지능에게 비디오 게임 하는 법을 가르침
    =>인공적인 총명
