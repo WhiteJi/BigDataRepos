@@ -123,3 +123,80 @@ ex) 사람의 얼굴
 3) 활용 - 재능을 어떻게 삶에 적용할 것인가
 인공지능의 주인, 나의 삶의 주인이 되자
 ----------------------------
+
+
+
+# AI Core Lecture list
+----------------------------------------------------------
+# AI Introduction and Future
+
+## 7. [How AI can bring on a second Industrial Revolution](https://www.ted.com/talks/kevin_kelly_how_ai_can_bring_on_a_second_industrial_revolution)
+- Speaker: Kevin Kelly · Digital visionary
+- 13:44
+- 
+**Question 1-1:**  끊임없이 더욱 더 지능적으로 고도화되는 경향성을 강연자는 뭐라고 하는가?
+
+```
+
+(1) notification (2) unification (3) cognification (4) specification
+```
+
+**답 : (3)**
+
+**Question 1-2:** 강연에서 비효율적인 것으로 언급되지 않은 것은?
+```
+
+(1) 과학 (2) 혁신 (3) 모험 (4) 예술 (5) 로봇
+```
+
+**답 : (5)**
+
+------------------------
+
+## 8. [인간의 지성, 인공지능과 무엇이 다른가? (1)](https://www.youtube.com/watch?v=UTVVQkW7xns)
+- Speaker: 정재승
+- 23:23
+- 
+**Question 2-1:**  컴퓨터는 못하지만 인간은 할 수 있는 예로 옳은 것은?
+
+```
+
+(1) 계산 (2) 분석 (3) 관계 맺기 (4) 글쓰기
+```
+
+**답 : (3)**
+
+**Question 2-2:** 인간이 가지고 있는 것으로 '한번에 상황을 이해한다'는 뜻을 가진 용어로 올바른 것은?
+```
+
+(1) create shot (2) one shot learning (3) now I see (4) keep learning (5) deep learning
+```
+
+**답 : (2)**
+
+------------------------
+
+## 9. [인공지능의 주인이 되기 위해 반드시 알아야 할 것들](https://tv.naver.com/v/3730036?query=15%EB%B6%84+%EC%98%A4%ED%98%9C%EC%97%B0&plClips=false:3730036)
+- Speaker: 오혜연
+- 15:32
+- 
+**Question 3-1:**  인공지능의 주인이 되기 위해 우리가 잘 알아야 하는 것이 아닌 것은?
+
+```
+
+(1) 인공지능의 언어 (2) 팩맨게임 (3) 목적 함수 (4) 데이터를 통한 학습 (5) 일반화
+```
+
+**답 : (2)**
+
+**Question 3-2:** 빈칸에 들어갈 알맞은 말은?
+```
+
+목적함수는 인공지능의 ______을(를) 설정하고 _____을(를) 조정할 수 있다.
+```
+
+**답 : 목적, 결과 **
+
+------------------------
+----------------------------
+
